@@ -1,0 +1,1 @@
+insert into user_table values('1', true, 'admin', 'admin', 'admin');
