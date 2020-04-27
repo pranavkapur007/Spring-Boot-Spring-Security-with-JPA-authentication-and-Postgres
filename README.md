@@ -1,5 +1,5 @@
-# Spring-Boot-Spring-Security-with-JPA-authentication-and-Postgres
-Here, I have demostrated the way to perform JPA authentication with postgres.
+# Spring-Boot-Spring-Security-with-JPA-authentication-and-Postgres 
+Here, I have demostrated the way to perform JPA authentication with postgres (For Beginners).
 
 // Password Encoding scheme
 
